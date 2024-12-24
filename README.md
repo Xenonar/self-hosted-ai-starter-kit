@@ -101,7 +101,7 @@ If you want to run Ollama on your mac, check the
 for installation instructions, and run the starter kit as follows:
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/Xenonar/self-hosted-ai-starter-kit
 cd self-hosted-ai-starter-kit
 docker compose up
 ```
