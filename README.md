@@ -40,7 +40,7 @@ Engineering world, handles large amounts of data safely.
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/Xenonar/self-hosted-ai-starter-kit
 cd self-hosted-ai-starter-kit
 ```
 
@@ -112,7 +112,7 @@ by using `http://host.docker.internal:11434/` as the host.
 #### For everyone else
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/Xenonar/self-hosted-ai-starter-kit
 cd self-hosted-ai-starter-kit
 docker compose --profile cpu up
 ```
